@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ibrahim Karim S1902536</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="description">Description</string>
+    <string name="delay_information">Delay Information</string>
+    <string name="link">Link</string>
+    <string name="link_url"><u>http://tscot.org/04h125200430</u></string>
+</resources>
